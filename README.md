@@ -66,3 +66,12 @@ This project demonstrates the use of **file handling, classes, and modular progr
    ```bash
    git clone https://github.com/theayushgupta08/Hospital-Management-System.git
    cd Hospital-Management-System
+  
+2. Compile the project:
+    ```bash
+    g++ "Hospital Management (2).cpp" -o Hospital.exe
+
+3. Run the program:
+   ```bash
+    ./Hospital.exe
+
