@@ -69,7 +69,7 @@ This project demonstrates the use of **file handling, classes, and modular progr
   
 2. Compile the project:
     ```bash
-    g++ "Hospital Management (2).cpp" -o Hospital.exe
+    g++ "Hospital-Management-System.cpp" -o Hospital.exe
 
 3. Run the program:
    ```bash
